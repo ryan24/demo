@@ -1,5 +1,6 @@
 fsdfs
 
+<<<<<<< HEAD
 fshfhsfd------hhaha
 
 
@@ -11,3 +12,6 @@ fdgdfgsdgfdsgsg--gfdgdfsgdsfgs
 
 
 lalalala testestsesaes
+=======
+fshfhsfd------hhaha
+>>>>>>> parent of 01aebd0... dssfs
